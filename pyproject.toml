@@ -6,7 +6,9 @@ readme = "README.md"
 requires-python = ">=3.12"
 dependencies = [
     "advent-of-code-data>=2.1.0",
+    "grap>=0.1.0b1",
     "jupyterlab>=4.5.0",
+    "matplotlib>=3.10.7",
     "more-itertools>=10.8.0",
     "networkx>=3.6",
     "numpy>=2.3.5",
